@@ -16,6 +16,10 @@ nav a {
 	margin-right: 20px;
 	margin-left: 20px;
 	text-decoration: none;
+	padding: 10px;
+}
+nav a:hover {
+	color: darkgray;
 }
 .align-right {
 	float: right;
